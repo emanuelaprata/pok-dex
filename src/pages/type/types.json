@@ -1,0 +1,226 @@
+[
+      {
+        "name": "Normal",
+        "image": "https://archives.bulbagarden.net/media/upload/9/95/Normal_icon_SwSh.png",
+        "color": "#B2BABB",
+        "naoCausaDano": [{"name": "-"}],
+        "superEfetivo":[{"name": "-"}],
+        "menosEfetivo": [{"name": "Aço"},{"name": "Pedra"}],
+        "fraqueza": [{"name": "Lutador"}],
+        "resistente":[{"name": "-"}],
+        "imune": [{"name": "Fantasma"}]      
+      },     
+      
+      {
+        "name": "Aço",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/0/09/Steel_icon_SwSh.png/64px-Steel_icon_SwSh.png",
+        "color": "#558191",
+        "naoCausaDano": [{"name": "-"}],
+        "superEfetivo": [{"name": "Fada"}, {"name": "Gelo"}, {"name": "Pedra"} ],
+        "menosEfetivo": [{"name": "Aço"}, {"name": "Água"},  {"name": "Elétrico"}, {"name": "Fogo"}],
+        "fraqueza": [{"name": "Fogo"}, {"name": "Lutador"}, {"name": "Terrestre"}],
+        "resistente": [{"name": "Aço"}, {"name": "Dragão"}, {"name": "Fada"}, {"name": "Gelo"}, {"name": "Inseto"}, {"name": "Normal"}, {"name": "Pedra"}, {"name": "Planta"}, {"name": "Psíquico"}, {"name": "Voador"}],
+        "imune": [{"name": "-"}]
+      },
+      
+      
+      {
+        "name": "Água",
+         "image": "https://archives.bulbagarden.net/media/upload/thumb/8/80/Water_icon_SwSh.png/64px-Water_icon_SwSh.png",
+        "color": "#3498DB",
+        "superEfetivo": 
+         [{"name": "Fogo"}, {"name": "Pedra"}, {"name": "Terrestre"} ],
+        "menosEfetivo": [{"name": "Água"}, {"name": "Dragão"},  {"name": "Planta"}],
+        "naoCausaDano": [{"name": "-"}],
+        "fraqueza": [{"name": "Fogo"}, {"name": "Lutador"}, {"name": "Terrestre"}],
+        "resistente": [{"name": "Aço"}, {"name": "Dragão"}, {"name": "Fada"}, {"name": "Gelo"}, {"name": "Inseto"}, {"name": "Normal"}, {"name": "Pedra"}, {"name": "Planta"}, {"name": "Psíquico"}, {"name": "Voador"}],
+        "imune": [{"name": "Fantasma"}]
+      },
+      
+      
+      {
+        "name": "Dragão",
+         "image": "https://archives.bulbagarden.net/media/upload/thumb/7/70/Dragon_icon_SwSh.png/64px-Dragon_icon_SwSh.png",
+        "color": "#002DFC",
+        "superEfetivo": [{"name": "Dragão"}],
+        "menosEfetivo": [{"name": "Aço"}, {"name": "Fada"},  {"name": "Planta"}],
+        "naoCausaDano": [{"name": "Fada"}],
+        "fraqueza": [{"name": "Dragão"}, {"name": "Fada"}, {"name": "Gelo"}],
+        "resistente": [{"name": "Elétrico"}, {"name": "Fogo"}, {"name": "Planta"}, {"name": "Água"}],
+        "imune": [{"name": "Fantasma"}]
+      },
+      
+      
+      {
+        "name": "Életrico",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/7/7b/Electric_icon_SwSh.png/64px-Electric_icon_SwSh.png",
+        "color": "#FCD900",
+        "superEfetivo": [{"name": "Água"}, {"name": "Voador"}],
+        "menosEfetivo": [{"name": "Dragão"}, {"name": "Elétrico"},  {"name": "Planta"}],
+        "naoCausaDano": [{"name": "Terrestre"}],
+        "fraqueza": [{"name": "Terrestre"}],
+        "resistente": [{"name": "Aço"}, {"name": "Elétrico"}, {"name": "Voador"}],
+        "imune": [{"name": "Fantasma"}]
+      },
+      
+      
+      {
+        "name": "Fada",
+         "image": "https://archives.bulbagarden.net/media/upload/thumb/c/c6/Fairy_icon_SwSh.png/64px-Fairy_icon_SwSh.png",
+        "color": "#FAA5F6",
+        "superEfetivo": [{"name": "Água"}, {"name": "Voador"}],
+        "menosEfetivo": [{"name": "Dragão"}, {"name": "Elétrico"},  {"name": "Planta"}],
+        "naoCausaDano": [{"name": "Terrestre"}],
+        "fraqueza": [{"name": "Terrestre"}],
+        "resistente": [{"name": "Aço"}, {"name": "Elétrico"}, {"name": "Voador"}],
+        "imune": [{"name": "Fantasma"}]
+      },
+      
+       {
+        "name": "Fantasma",
+         "image": "https://archives.bulbagarden.net/media/upload/thumb/0/01/Ghost_icon_SwSh.png/64px-Ghost_icon_SwSh.png",
+        "color": "#8D55CE",
+        "superEfetivo": [{"name": "Fantasma"}, {"name": "Sombrio"}],
+        "menosEfetivo": [{"name": "Inseto"}, {"name": "Venenoso"}],
+        "naoCausaDano": [{"name": "Normal"}],
+        "fraqueza": [{"name": "Fantasma"}, {"name": "Sombrio"}],
+        "resistente": [{"name": "Inseto"}, {"name": "Psíquico"}],
+        "imune": [{"name": "Lutador"}, {"name": "Normal"}]
+      },
+      
+      {
+        "name": "Fogo",
+         "image": "https://archives.bulbagarden.net/media/upload/thumb/a/ab/Fire_icon_SwSh.png/64px-Fire_icon_SwSh.png",
+        "color": "#FE7125",
+        "superEfetivo": [{"name": "Aço"}, {"name": "Gelo"}, {"name": "Inseto"}, {"name": "Planta"}],
+        "menosEfetivo": [{"name": "Água"}, {"name": "Dragão"}, {"name": "Fogo"}, {"name": "Pedra"}],
+        "naoCausaDano": [{"name": "Fantasma"}],
+        "fraqueza": [{"name": "Água"}, {"name": "Pedra"}, {"name":"Terrestre"} ],
+        "resistente": [{"name": "Aço"}, {"name": "Fada"}, {"name": "Fogo"}, {"name": "Gelo"}, {"name": "Inseto"}, {"name": "Planta"}],
+        "imune": [{"name": "-"}]
+      },
+      
+       {
+        "name": "Gelo",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/1/15/Ice_icon_SwSh.png/64px-Ice_icon_SwSh.png",
+        "color": "#25FEFA",
+        "superEfetivo": [{"name": "Dragão"}, {"name": "Planta"}, {"name": "Terrestre"}, {"name": "Voador"}],
+        "menosEfetivo": [{"name": "Aço"}, {"name": "Água"}, {"name": "Fogo"}, {"name": "Gelo"}],
+        "naoCausaDano": [{"name": "-"}],
+        "fraqueza": [{"name": "Água"}, {"name": "Pedra"}, {"name":"Terrestre"} ],
+        "resistente": [{"name": "Aço"}, {"name": "Fogo"}, {"name": "Lutador"}, {"name": "Pedra"}],
+        "imune": [{"name": "-"}]
+      },
+      
+      {
+        "name": "Inseto",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/9/9c/Bug_icon_SwSh.png/64px-Bug_icon_SwSh.png",
+        "color": "#2ECC71",
+        "superEfetivo": [{"name": "Sombrio"}, {"name": "Planta"}, {"name": "Psíquico"}],
+        "menosEfetivo": [{"name": "Aço"}, {"name": "Fada"}, {"name": "Fogo"}, {"name": "Fantasma"}, {"name": "Lutador"}, {"name": "Venenoso"}, {"name": "Voador"}],
+        "naoCausaDano": [{"name": "-"}],
+        "fraqueza": [{"name": "Fogo"}, {"name": "Pedra"}, {"name":"Voador"} ],
+        "resistente": [{"name": "Lutador"}, {"name": "Planta"}, {"name": "Terrestre"}],
+        "imune": [{"name": "-"}]
+      },
+      
+      {
+        "name": "Lutador",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/3/3b/Fighting_icon_SwSh.png/64px-Fighting_icon_SwSh.png",
+        "color": "#9A063A",
+        "superEfetivo": [{"name": "Aço"}, {"name": "Gelo"}, {"name": "Normal"}, {"name": "Pedra"}, {"name": "Sombrio"}],
+        "menosEfetivo": [{"name": "Fada"}, {"name": "Inseto"}, {"name": "Psíquico"}, {"name": "Venenoso"}, {"name": "Voador"}],
+        "naoCausaDano": [{"name": "Fantasma"}],
+        "fraqueza": [{"name": "Fada"}, {"name": "Psíquico"}, {"name":"Voador"} ],
+        "resistente": [{"name": "Inseto"}, {"name": "Pedra"}, {"name": "Sombrio"}],
+        "imune": [{"name": "-"}]
+      },
+    
+    {
+        "name": "Pedra",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/1/11/Rock_icon_SwSh.png/64px-Rock_icon_SwSh.png",
+        "color": "#C9A355",
+        "superEfetivo": [{"name": "Fogo"}, {"name": "Gelo"}, {"name": "Inseto"}, {"name": "Voador"}],
+        "menosEfetivo": [{"name": "Aço"}, {"name": "Lutador"}, {"name": "Terrestre"}],
+        "naoCausaDano": [{"name": "-"}],
+        "fraqueza": [{"name": "Aço"}, {"name": "Água"}, {"name":"Lutador"},{"name":"Planta"}, {"name":"Terrestre"} ],
+        "resistente": [{"name": "Fogo"}, {"name": "Normal"}, {"name": "Venenoso"}, {"name": "Voador"}],
+        "imune": [{"name": "-"}]
+      },
+      
+      {
+        "name": "Planta",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/a/a8/Grass_icon_SwSh.png/64px-Grass_icon_SwSh.png",
+        "color": "#13C40E",
+        "superEfetivo": [{"name": "Água"}, {"name": "Pedra"}, {"name": "Terrestre"}],
+        "menosEfetivo": [{"name": "Aço"}, {"name": "Dragão"}, {"name": "Fogo"},{"name": "Inseto"}, {"name": "Planta"}, {"name": "Venenoso"}, {"name": "Voador"}],
+        "naoCausaDano": [{"name": "-"}],
+        "fraqueza": [{"name": "Fogo"}, {"name": "Inseto"}, {"name":"Voador"}],
+        "resistente": [{"name": "Água"}, {"name": "Elétrico"}, {"name": "Planta"}, {"name": "Terrestre"}],
+        "imune": [{"name": "-"}]
+      },
+    
+    
+    {
+        "name": "Psíquico",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/7/73/Psychic_icon_SwSh.png/64px-Psychic_icon_SwSh.png",
+        "color": "#C53288",
+        "superEfetivo": [{"name": "Lutador"}, {"name": "Venenoso"}],
+        "menosEfetivo": [{"name": "Aço"}, {"name": "Psíquico"}],
+        "naoCausaDano": [{"name": "Sombrio"}],
+        "fraqueza": [{"name": "Fantasma"}, {"name": "Inseto"}, {"name":"Sombrio"}],
+        "resistente": [{"name": "Lutador"}, {"name": "Psíquico"}],
+        "imune": [{"name": "-"}]
+      },
+    
+    
+      {
+        "name": "Sombrio",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/d/d5/Dark_icon_SwSh.png/64px-Dark_icon_SwSh.png",
+        "color": "#808080",
+        "superEfetivo": [{"name": "Fantasma"}, {"name": "Psíquico"}],
+        "menosEfetivo": [{"name": "Sombrio"}, {"name": "Fada"}, {"name": "Lutador"}],
+        "naoCausaDano": [{"name": "-"}],
+        "fraqueza": [{"name": "Inseto"}, {"name": "Fada"}, {"name":"Lutador"}],
+        "resistente": [{"name": "Sombrio"}, {"name": "Fantasma"}],
+        "imune": [{"name": "Psíquico"}]
+      },
+    
+     {
+        "name": "Terrestre",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/2/27/Ground_icon_SwSh.png/64px-Ground_icon_SwSh.png",
+        "color": "#C46B0E",
+        "superEfetivo": [{"name": "Aço"}, {"name": "Elétrico"}, {"name": "Fogo"}, {"name": "Pedra"}, {"name": "Venenoso"}],
+        "menosEfetivo": [{"name": "Inseto"}, {"name": "Planta"}],
+        "naoCausaDano": [{"name": "Voador"}],
+        "fraqueza": [{"name": "Água"}, {"name": "Gelo"}, {"name":"Planta"}],
+        "resistente": [{"name": "Pedra"}, {"name": "Venenoso"}],
+        "imune": [{"name": "Elétrico"}]
+      },
+      
+       {
+        "name": "Venenoso",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Poison_icon_LA.png/64px-Poison_icon_LA.png",
+        "color": "#A569BD",
+        "superEfetivo": [{"name": "Fada"}, {"name": "Planta"}],
+        "menosEfetivo": [{"name": "Fantasma"}, {"name": "Pedra"}, {"name": "Venenoso"}, {"name": "Terrestre"}],
+        "naoCausaDano": [{"name": "-"}],
+        "fraqueza": [{"name": "Psíquico"}, {"name": "Terrestre"}],
+        "resistente": [{"name": "Fada"}, {"name": "Inseto"},{"name": "Lutador"}, {"name": "Planta"},{"name": "Venenoso"}],
+        "imune": [{"name": "-"}]
+      },
+      
+      {
+        "name": "Voador",
+        "image": "https://archives.bulbagarden.net/media/upload/thumb/b/b5/Flying_icon_SwSh.png/64px-Flying_icon_SwSh.png",
+        "color": "#B9A5D3",
+        "superEfetivo": [{"name": "Inseto"}, {"name": "Lutador"},{"name": "Planta"}],
+        "menosEfetivo": [{"name": "Aço"}, {"name": "Elétrico"}, {"name": "Pedra"}],
+        "naoCausaDano": [{"name": "-"}],
+        "fraqueza": [{"name": "Elétrico"}, {"name": "Gelo"},{"name": "Pedra"} ],
+        "resistente": [{"name": "Inseto"}, {"name": "Lutador"},{"name": "Planta"}],
+        "imune": [{"name": "Terrestre"}]
+      }   
+    
+    ]
+  
