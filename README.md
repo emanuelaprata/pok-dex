@@ -28,5 +28,5 @@ Tipos:
 Evoluções:
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/83521009/212222818-bd761eb3-a9f9-48a9-89a4-321214ca4e3a.jpeg" width="200px" />
-<img src="https://user-images.githubusercontent.com/83521009/212222818-bd761eb3-a9f9-48a9-89a4-321214ca4e3a.jpeg" width="200px" />
+<img src="https://user-images.githubusercontent.com/83521009/212222827-6b429e71-7535-4b06-8327-ef5a68a5a39f.jpeg" width="200px" />
 </div>
