@@ -21,6 +21,6 @@ Itens:
 
 Tipos:
 <div align='center'>
-<img src="hhttps://user-images.githubusercontent.com/83521009/212220624-253ec7ec-a3f0-49d4-8a01-98f2054afbe6.jpeg" width="200px" />
+<img src="https://user-images.githubusercontent.com/83521009/212220624-253ec7ec-a3f0-49d4-8a01-98f2054afbe6.jpeg" width="200px" />
 <img src="https://user-images.githubusercontent.com/83521009/212219605-5bd621bb-02c5-4e92-93a2-87c98feb220a.jpeg" width="200px" />
 </div>
