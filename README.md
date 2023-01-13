@@ -1,6 +1,6 @@
 #Pokédex
 
-Desenvolvimento do aplicativo de Pokédex com ReactNative utilizando Expo, para aprimoramento de desenvolvimento mobile e estudo de utilização de API, no estudo foram utilizadas duas APIs diferentes (https://pokeapi.co/ e https://pokeapi.glitch.me). 
+Projeto de aplicativo desenvolvido com React Native utilizando Expo, para aprimoramento de desenvolvimento mobile e estudo de utilização de API, no estudo foram utilizadas duas APIs diferentes (https://pokeapi.co/ e https://pokeapi.glitch.me). 
 
 Inicio:
 <div align='center'>
